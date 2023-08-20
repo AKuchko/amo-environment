@@ -1,0 +1,22 @@
+{
+  "name": "@allollal/amo-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKuchko/amo-environment.git"
+  },
+  "author": "allollal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKuchko/amo-environment/issues"
+  },
+  "homepage": "https://github.com/AKuchko/amo-environment#readme",
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
